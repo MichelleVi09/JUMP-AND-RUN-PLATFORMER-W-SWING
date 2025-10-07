@@ -1,5 +1,5 @@
 # Project Report
-
+- **Main Goal**: Replicate Google's T-Rex Dinosaur game in our own spin-off. 
 ## Design Decisions
 
 ### Architecture
@@ -46,4 +46,4 @@ These structures kept the code simple, readable, and extensible.
 - Save high scores with file I/O.  
 - Add more obstacle types (pits, taller enemies).  
 - Refactor collision into a `Collider` helper class.  
-- Improve rendering structure for readability and performance.  
+- Improve rendering structure for readability and performance.
